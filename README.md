@@ -36,7 +36,7 @@
     </tr>
         <!-- Раздел для курсового проекта по Java -->
     <tr>
-      <th colspan="2">Курсовой проект по JavaS</th>
+      <th colspan="2">Курсовой проект по Java</th>
     </tr>
     <tr>
       <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект Java</a></td>
