@@ -39,7 +39,7 @@
       <th colspan="2">Курсовой проект по HTML/CSS</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект HTML/CSS</a></td>
+      <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект Java</a></td>
       <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
     </tr>
   </tbody>
