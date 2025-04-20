@@ -18,8 +18,8 @@
   <table>
     <thead>
       <tr>
-        <th>Домашние задания по Java</th>
-        <th>Краткое описание</th>
+        <th colspan=2>Домашние задания по Java</th>
+       
       </tr>
     </thead>
     <tbody>
