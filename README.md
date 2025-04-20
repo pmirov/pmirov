@@ -36,12 +36,6 @@
         <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
         <td>Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
-    </tbody>
-  </table>
-
-  <!-- Курсовой проект по C# -->
-  <table>
-    <caption>Курсовой проект по C#</caption>
     <thead>
       <tr>
         <th>Курсовой проект по C#</th>
@@ -53,12 +47,6 @@
         <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект</a></td>
         <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
       </tr>
-    </tbody>
-  </table>
-
-  <!-- Курсовой проект по HTML/CSS -->
-  <table>
-    <caption>Курсовой проект по HTML/CSS</caption>
     <thead>
       <tr>
         <th>Курсовой проект по HTML/CSS</th>
