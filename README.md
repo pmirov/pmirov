@@ -18,7 +18,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan=2>Домашние задания по Java</th>
+        <th colspan="2">Домашние задания по Java</th>
        
       </tr>
     </thead>
