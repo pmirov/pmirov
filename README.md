@@ -14,34 +14,63 @@
 |-------------------------------------------------------------|-------------------------------------------------------------------------|
 | [Курсовой проект](https://github.com/pmirov/HomeWork_1)      | Тема курсового проекта: Переменные, условия, циклы, массивы, методы       |
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #000; width: 50%;">Домашние задания по Java</th>
-      <th style="border: 1px solid #000; width: 50%;">Краткое описание</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #000; word-wrap: break-word;">
-        <a href="https://github.com/pmirov/HomeWork_1">Домашнее задание #1</a>
-      </td>
-      <td style="border: 1px solid #000; word-wrap: break-word;">Задание на тему: Переменные, условия, циклы, массивы, методы</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; word-wrap: break-word;">
-        <a href="https://github.com/pmirov/HomeWork2">Домашнее задание #2</a>
-      </td>
-      <td style="border: 1px solid #000; word-wrap: break-word;">Задание на тему: Объектно-ориентированное программирование</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #000; word-wrap: break-word;">
-        <a href="https://github.com/pmirov/HomeWork2">Домашнее задание #3</a>
-      </td>
-      <td style="border: 1px solid #000; word-wrap: break-word;">Подробная документация и учебные материалы по веб-технологиям.</td>
-    </tr>
-  </tbody>
-</table>
+ <!-- Домашние задания по Java -->
+  <table>
+    <caption>Домашние задания по Java</caption>
+    <thead>
+      <tr>
+        <th>Домашние задания по Java</th>
+        <th>Краткое описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
+        <td>Задание на тему: Переменные, условия, циклы, массивы, методы</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #2</a></td>
+        <td>Задание на тему: Объектно-ориентированное программирование</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
+        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+      </tr>
+    </tbody>
+  </table>
 
+  <!-- Курсовой проект по C# -->
+  <table>
+    <caption>Курсовой проект по C#</caption>
+    <thead>
+      <tr>
+        <th>Курсовой проект по C#</th>
+        <th>Краткое описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект</a></td>
+        <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Курсовой проект по HTML/CSS -->
+  <table>
+    <caption>Курсовой проект по HTML/CSS</caption>
+    <thead>
+      <tr>
+        <th>Курсовой проект по HTML/CSS</th>
+        <th>Краткое описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект</a></td>
+        <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
+      </tr>
+    </tbody>
+  </table>
 
 
