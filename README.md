@@ -34,9 +34,9 @@
       <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект HTML/CSS</a></td>
       <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
     </tr>
-        <!-- Раздел для курсового проекта по HTML/CSS -->
+        <!-- Раздел для курсового проекта по Java -->
     <tr>
-      <th colspan="2">Курсовой проект по HTML/CSS</th>
+      <th colspan="2">Курсовой проект по JavaS</th>
     </tr>
     <tr>
       <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект Java</a></td>
