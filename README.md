@@ -47,7 +47,7 @@
   <table border="1" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
-        <th colspan="2">Курсовой проект по HTML/CSS</th>
+        <th colspan="2">Создане сайта компании с использованием HTML, CSS, Bootsrap</th>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/web-exam-project" target="_blank">Курсовой проект HTML/CSS</a></td>
