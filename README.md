@@ -72,3 +72,19 @@
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary>Домашние работы по PHP</summary>
+
+  <table border="1" cellspacing="0" cellpadding="5">
+    <tbody>
+      <tr>
+        <th colspan="2">Домашнее задание #1</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
+        <td>Задание на тему: Реализация интернет-магазина</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
