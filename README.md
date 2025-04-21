@@ -1,10 +1,13 @@
+<details>
+  <summary>Домашние задания по Java</summary>
+
   <table border="1" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
-        <th colspan="2" class="toggle-header" id="toggleHomework">Домашние задания по Java</th>
+        <th colspan="2">Домашние задания по Java</th>
       </tr>
     </thead>
-    <tbody id="homeworkSection">
+    <tbody>
       <tr>
         <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
         <td>Задание на тему: Переменные, условия, циклы, массивы, методы</td>
@@ -18,8 +21,14 @@
         <td>Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
     </tbody>
-    
-    <!-- Раздел для курсового проекта по C# -->
+  </table>
+</details>
+
+<!-- Остальные разделы можно оформить аналогично -->
+<details>
+  <summary>Курсовой проект по C#</summary>
+
+  <table border="1" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по C#</th>
@@ -29,8 +38,13 @@
         <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
       </tr>
     </tbody>
-    
-    <!-- Раздел для курсового проекта по HTML/CSS -->
+  </table>
+</details>
+
+<details>
+  <summary>Курсовой проект по HTML/CSS</summary>
+
+  <table border="1" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по HTML/CSS</th>
@@ -40,8 +54,13 @@
         <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
       </tr>
     </tbody>
-    
-    <!-- Раздел для курсового проекта по Java -->
+  </table>
+</details>
+
+<details>
+  <summary>Курсовой проект по Java</summary>
+
+  <table border="1" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по Java</th>
@@ -52,18 +71,4 @@
       </tr>
     </tbody>
   </table>
-
-  <script>
-    // Получаем ссылку на заголовок и секцию с домашними заданиями
-    const toggleHeader = document.getElementById('toggleHomework');
-    const homeworkSection = document.getElementById('homeworkSection');
-
-    // Функция для переключения видимости раздела
-    toggleHeader.addEventListener('click', function() {
-      if (homeworkSection.style.display === 'none') {
-        homeworkSection.style.display = '';
-      } else {
-        homeworkSection.style.display = 'none';
-      }
-    });
-  </script>
+</details>
