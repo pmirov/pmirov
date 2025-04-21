@@ -24,7 +24,31 @@
   </table>
 </details>
 
-<!-- Остальные разделы можно оформить аналогично -->
+<details>
+  <summary>Домашние задания по C#</summary>
+  <table border="0" cellspacing="0" cellpadding="5">
+    <thead>
+      <tr>
+        <th colspan="2">Домашние задания по C#</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
+        <td>Задание на тему: Переменные, условия, циклы, массивы, методы</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #2</a></td>
+        <td>Задание на тему: Объектно-ориентированное программирование</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
+        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <details>
   <summary>Курсовой проект по C#</summary>
 
@@ -47,7 +71,7 @@
   <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
-        <th colspan="2">>Курсовой проект по HTML/CSS</th>
+        <th colspan="2">Курсовой проект по HTML/CSS</th>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/web-exam-project" target="_blank">Курсовой проект HTML/CSS</a></td>
