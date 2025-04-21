@@ -44,21 +44,7 @@
 
 
 
-<details>
-  <summary>Курсовой проект по Java</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tbody>
-      <tr>
-        <th colspan="2">Курсовой проект по Java</th>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект Java</a></td>
-        <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
 
 <details>
   <summary>Домашние задания по Java</summary>
@@ -85,7 +71,21 @@
     </tbody>
   </table>
 </details>
+<details>
+  <summary>Курсовой проект по Java</summary>
 
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+      <tr>
+        <th colspan="2">Курсовой проект по Java</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект Java</a></td>
+        <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <details>
   <summary>Домашние работы по PHP</summary>
