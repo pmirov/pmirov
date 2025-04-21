@@ -101,6 +101,14 @@
         <td><a href="https://github.com/pmirov/Shop" target="_blank">Домашнее задание #1</a></td>
         <td>Задание на тему: Реализация интернет-магазина</td>
       </tr>
+        <tr>
+        <td><a href="https://github.com/pmirov/Shop" target="_blank">Домашнее задание #2</a></td>
+        <td>Задание на тему: Реализация интернет-магазина</td>
+      </tr>
+        <tr>
+        <td><a href="https://github.com/pmirov/Shop" target="_blank">Домашнее задание #3</a></td>
+        <td>Задание на тему: Реализация интернет-магазина</td>
+      </tr>
     </tbody>
   </table>
 </details>
