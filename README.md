@@ -1,7 +1,7 @@
 <details>
   <summary>Домашние задания по Java</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
         <th colspan="2">Домашние задания по Java</th>
