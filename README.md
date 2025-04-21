@@ -28,7 +28,7 @@
 <details>
   <summary>Курсовой проект по C#</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по C#</th>
@@ -44,7 +44,7 @@
 <details>
   <summary>Курсовой проект по HTML/CSS</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">>Курсовой проект по HTML/CSS</th>
@@ -60,7 +60,7 @@
 <details>
   <summary>Курсовой проект по Java</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по Java</th>
@@ -76,7 +76,7 @@
 <details>
   <summary>Домашние работы по PHP</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Домашние задания по PHP</th>
@@ -92,7 +92,7 @@
 <details>
   <summary>Домашние работы по JavaScript</summary>
 
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Домашние задания по JavaScript</th>
