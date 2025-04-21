@@ -8,12 +8,12 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
-        <td>Задание на тему: Переменные, условия, циклы, массивы, методы</td>
+        <td><a href="https://github.com/pmirov/game-bukvoed" target="_blank">Домашнее задание #1</a></td>
+        <td>Задание на тему: Игра Буквоед</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #2</a></td>
-        <td>Задание на тему: Объектно-ориентированное программирование</td>
+        <td><a href="https://github.com/pmirov/recipe-exercise" target="_blank">Домашнее задание #2</a></td>
+        <td>Задание на тему: Стек для добавление ингредиентов в рецепт</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
