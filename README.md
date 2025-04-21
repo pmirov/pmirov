@@ -82,7 +82,7 @@
         <th colspan="2">Домашнее задание #1</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
+        <td><a href="https://github.com/pmirov/Shop" target="_blank">Домашнее задание #1</a></td>
         <td>Задание на тему: Реализация интернет-магазина</td>
       </tr>
     </tbody>
