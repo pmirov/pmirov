@@ -1,6 +1,6 @@
 <details>
   <summary>Домашние задания по C#</summary>
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5" width="500px">
     <thead>
       <tr>
         <th colspan="2">Домашние задания по C#</th>
