@@ -142,3 +142,17 @@
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary>Курсовой проект по C#</summary>
+  <table border="1" cellspacing="0" cellpadding="5" style="width:100%;">
+    <tr>
+      <th style="width:50%;">Название</th>
+      <th style="width:50%;">Описание</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект C#</a></td>
+      <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
+    </tr>
+  </table>
+</details>
