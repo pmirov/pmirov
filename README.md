@@ -1,6 +1,17 @@
+# Добро пожаловать на GitHub.com/pmirov
+
+Привет! Это мой репозиторий, где я выкладываю домашние задания по программированию и веб-разработке. Здесь вы найдете работы, выполненные на нескольких языках и технологиях:
+
+- **C#**
+- **Java**
+- **PHP**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
 <details>
   <summary>Домашние задания по C#</summary>
-  <table border="0" cellspacing="0" cellpadding="5" width="100%">
+  <table border="0" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
         <th colspan="2">Домашние задания по C#</th>
@@ -16,7 +27,7 @@
         <td>Задание на тему: Стек для добавление ингредиентов в рецепт</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
+        <td><a href="#" target="_blank">Домашнее задание #3</a></td>
         <td>Задание на тему: ...</td>
       </tr>
     </tbody>
@@ -26,7 +37,7 @@
 <details>
   <summary>Курсовой проект по C#</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по C#</th>
@@ -39,17 +50,10 @@
   </table>
 </details>
 
-
-
-
-
-
-
-
 <details>
   <summary>Домашние задания по Java</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5">
     <thead>
       <tr>
         <th colspan="2">Домашние задания по Java</th>
@@ -74,7 +78,7 @@
 <details>
   <summary>Курсовой проект по Java</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по Java</th>
@@ -106,7 +110,7 @@
 <details>
   <summary>Домашние работы по JavaScript</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5"">
     <tbody>
       <tr>
         <th colspan="2">Домашние задания по JavaScript</th>
@@ -130,7 +134,7 @@
 <details>
   <summary>Курсовой проект по HTML/CSS</summary>
 
-  <table border="0" cellspacing="0" cellpadding="5" width="50%">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tbody>
       <tr>
         <th colspan="2">Курсовой проект по HTML/CSS</th>
@@ -143,16 +147,4 @@
   </table>
 </details>
 
-<details>
-  <summary>Курсовой проект по C#</summary>
-  <table border="1" cellspacing="0" cellpadding="5" style="width:100%;">
-    <tr>
-      <th style="width:50%;">Название</th>
-      <th style="width:50%;">Описание</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Курсовой проект C#</a></td>
-      <td>Тема курсового проекта: Переменные, условия, циклы, массивы, методы</td>
-    </tr>
-  </table>
-</details>
+
