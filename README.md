@@ -17,7 +17,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #3</a></td>
-        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+        <td>Задание на тему: ...</td>
       </tr>
     </tbody>
   </table>
