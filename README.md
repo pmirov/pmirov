@@ -12,15 +12,15 @@
     <tbody>
       <tr>
         <td><a href="https://github.com/pmirov/game-bukvoed" target="_blank">Домашнее задание #1</a></td>
-        <td>Задание на тему: Игра Буквоед</td>
+        <td>Тема: Игра Буквоед</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/recipe-exercise" target="_blank">Домашнее задание #2</a></td>
-        <td>Задание на тему: Стек для добавление ингредиентов в рецепт</td>
+        <td>Тема: Стек для добавление ингредиентов в рецепт</td>
       </tr>
       <tr>
         <td><a href="#" target="_blank">Домашнее задание #3</a></td>
-        <td>Задание на тему: ...</td>
+        <td>Тема: ...</td>
       </tr>
     </tbody>
   </table>
@@ -53,27 +53,27 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Домашнее задание #1</a></td>
+        <td><a href="https://github.com/pmirov/HomeWork_1" target="_blank">Задание #1</a></td>
         <td>Тема: Переменные, условия, циклы, массивы, методы</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Домашнее задание #2</a></td>
+        <td><a href="https://github.com/pmirov/HomeWork2" target="_blank">Задание #2</a></td>
         <td>Тема: Объектно-ориентированное программирование</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HW" target="_blank">Домашнее задание #3</a></td>
+        <td><a href="https://github.com/pmirov/HW" target="_blank">Задание #3</a></td>
         <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/HomeWork4" target="_blank">Домашнее задание #4</a></td>
+        <td><a href="https://github.com/pmirov/HomeWork4" target="_blank">Задание #4</a></td>
         <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/JavaHomeWork5" target="_blank">Домашнее задание #5</a></td>
+        <td><a href="https://github.com/pmirov/JavaHomeWork5" target="_blank">Задание #5</a></td>
         <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/JavaHomeWork6" target="_blank">Домашнее задание #6</a></td>
+        <td><a href="https://github.com/pmirov/JavaHomeWork6" target="_blank">Задание #6</a></td>
         <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
     </tbody>
@@ -104,7 +104,7 @@
         <th colspan="2">Домашние задания по PHP</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/Shop" target="_blank">Домашнее задание #1</a></td>
+        <td><a href="https://github.com/pmirov/Shop" target="_blank">Задание #1</a></td>
         <td>Тема: Реализация интернет-магазина</td>
       </tr>
     </tbody>
@@ -120,15 +120,15 @@
         <th colspan="2">Домашние задания по JavaScript</th>
       </tr>
       <tr>
-        <td><a href="#" target="_blank">Домашнее задание #1</a></td>
+        <td><a href="#" target="_blank">Задание #1</a></td>
         <td>Тема: ...</td>
       </tr>
         <tr>
-        <td><a href="#" target="_blank">Домашнее задание #2</a></td>
+        <td><a href="#" target="_blank">Задание #2</a></td>
         <td>Тема: ...</td>
       </tr>
         <tr>
-        <td><a href="#" target="_blank">Домашнее задание #3</a></td>
+        <td><a href="#" target="_blank">Задание #3</a></td>
         <td>Тема: ...</td>
       </tr>
     </tbody>
