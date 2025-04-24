@@ -124,8 +124,8 @@
         <td>Тема: Изменение цвета div по таймеру</td>
       </tr>
         <tr>
-        <td><a href="#" target="_blank">Задание #2</a></td>
-        <td>Тема: ...</td>
+        <td><a href="https://github.com/pmirov/text-enter.git" target="_blank">Задание #2</a></td>
+        <td>Тема: Ввод текста с помощью события key</td>
       </tr>
         <tr>
         <td><a href="#" target="_blank">Задание #3</a></td>
