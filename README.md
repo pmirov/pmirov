@@ -120,16 +120,24 @@
         <th colspan="2">Домашние задания по JavaScript</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/div-color-change.git" target="_blank">Задание #1</a></td>
+        <td><a href="https://github.com/pmirov/div-color-change" target="_blank">Задание #1</a></td>
         <td>Тема: Изменение цвета div по таймеру</td>
       </tr>
         <tr>
-        <td><a href="https://github.com/pmirov/text-enter.git" target="_blank">Задание #2</a></td>
+        <td><a href="https://github.com/pmirov/text-enter" target="_blank">Задание #2</a></td>
         <td>Тема: Ввод текста с помощью события key</td>
       </tr>
         <tr>
-        <td><a href="#" target="_blank">Задание #3</a></td>
-        <td>Тема: ...</td>
+        <td><a href="https://github.com/pmirov/drag-n-drop" target="_blank">Задание #3</a></td>
+        <td>Тема: Drag-and-Drop</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/drag-n-drop" target="_blank">Задание #4</a></td>
+        <td>Тема: Книга контактов (добавление, удаление, редактирование)</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/weather-forecast" target="_blank">Задание #5</a></td>
+        <td>Тема: Сайт с прогнозом погоды на сегодня (использование AJAX)</td>
       </tr>
     </tbody>
   </table>
