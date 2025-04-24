@@ -120,8 +120,8 @@
         <th colspan="2">Домашние задания по JavaScript</th>
       </tr>
       <tr>
-        <td><a href="#" target="_blank">Задание #1</a></td>
-        <td>Тема: ...</td>
+        <td><a href="https://github.com/pmirov/div-color-change.git" target="_blank">Задание #1</a></td>
+        <td>Тема: Изменение цвета div по таймеру</td>
       </tr>
         <tr>
         <td><a href="#" target="_blank">Задание #2</a></td>
