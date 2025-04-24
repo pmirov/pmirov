@@ -61,7 +61,19 @@
         <td>Задание на тему: Объектно-ориентированное программирование</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank">Домашнее задание #3</a></td>
+        <td><a href="https://github.com/pmirov/HW" target="_blank">Домашнее задание #3</a></td>
+        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/HomeWork4" target="_blank">Домашнее задание #4</a></td>
+        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/JavaHomeWork5" target="_blank">Домашнее задание #5</a></td>
+        <td>Подробная документация и учебные материалы по веб-технологиям.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/JavaHomeWork6" target="_blank">Домашнее задание #6</a></td>
         <td>Подробная документация и учебные материалы по веб-технологиям.</td>
       </tr>
     </tbody>
