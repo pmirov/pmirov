@@ -62,19 +62,19 @@
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/HW" target="_blank">Задание #3</a></td>
-        <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
+        <td>Тема: Объектно-ориентированное программирование</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/HomeWork4" target="_blank">Задание #4</a></td>
-        <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
+        <td>Тема: Java Collections Framework</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/JavaHomeWork5" target="_blank">Задание #5</a></td>
-        <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
+        <td>Тема: Работа с файлами</td>
       </tr>
       <tr>
         <td><a href="https://github.com/pmirov/JavaHomeWork6" target="_blank">Задание #6</a></td>
-        <td>Тема: Подробная документация и учебные материалы по веб-технологиям.</td>
+        <td>Тема: Взаимодействие с источниками данных</td>
       </tr>
     </tbody>
   </table>
