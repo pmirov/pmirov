@@ -194,4 +194,5 @@
 Если у вас есть вопросы или вы хотите обсудить какой-либо проект, вы можете написать <a href="http://t.me/pmirov">мне</a>.
 </p>
 
+<h1><span style="color: red;">Контакты</span></h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmirov&layout=compact)
