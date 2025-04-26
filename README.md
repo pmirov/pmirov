@@ -1,6 +1,6 @@
 # Добро пожаловать на GitHub.com/pmirov
 
-Привет! Это мой репозиторий, где я выкладываю домашние задания по программированию и веб-разработке. Здесь вы найдете работы, выполненные на нескольких языках и технологиях:
+Привет! Это мой репозиторий, где я выкладываю домашние задания по программированию и веб-разработке. Здесь вы найдете некоторые работы, выполненные на нескольких языках и технологиях:
 <details>
   <summary>Домашние задания по C#</summary>
   <table border="0" cellspacing="0" cellpadding="5">
@@ -170,6 +170,20 @@
       <tr>
         <td><a href="https://github.com/pmirov/web-exam-project" target="_blank">Курсовой проект HTML/CSS</a></td>
         <td>Тема курсового проекта: Создание сайта компании с использованием HTML, CSS, Bootsrap</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<h1><span style="color: red;">Проекты для себя</span></h1>
+<details>
+  <summary>Доступ в Яндекс Диск</summary>
+
+  <table border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+        <td><a href="https://github.com/pmirov/AccessYandex" target="_blank">Доступ в Яндекс.Диск</a></td>
+        <td>В процессе реализации...</td>
       </tr>
     </tbody>
   </table>
