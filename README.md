@@ -11,16 +11,32 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/pmirov/game-bukvoed" target="_blank">Домашнее задание #1</a></td>
+        <td><a href="https://github.com/pmirov/game-bukvoed" target="_blank">Задание #1</a></td>
         <td>Тема: Игра Буквоед</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/recipe-exercise" target="_blank">Домашнее задание #2</a></td>
+        <td><a href="https://github.com/pmirov/recipe-exercise" target="_blank">Задание #2</a></td>
         <td>Тема: Стек для добавление ингредиентов в рецепт</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank">Домашнее задание #3</a></td>
-        <td>Тема: ...</td>
+        <td><a href="https://github.com/pmirov/move-txt-form" target="_blank">Задание #3</a></td>
+        <td>Тема: Перемещение текста в форме</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/bank-emulate" target="_blank">Задание #4</a></td>
+        <td>Тема: Программа отслеживания истории займов</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/collection-viewer" target="_blank">Задание #5</a></td>
+        <td>Тема: Вывод коллекций на экран, сериализация, десериализация</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/color-stats-serializer" target="_blank">Задание #6</a></td>
+        <td>Тема: Вывод статистики цвета квадрата, сериализация, десерилиазиция</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pmirov/time-sync-client-server" target="_blank">Задание #7</a></td>
+        <td>Тема: Клиент-сервер (передача данных о времени с сервера)</td>
       </tr>
     </tbody>
   </table>
@@ -35,7 +51,7 @@
         <th colspan="2">Курсовой проект по C#</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/pmirov/toyshop" target="_blank">Курсовой проект C#</a></td>
+        <td><a href="https://github.com/pmirov/toy-shop" target="_blank">Курсовой проект C#</a></td>
         <td>Тема курсового проекта: Панель управления базой данных «Игрушки» (вывод на экран, добавление, удаление, редактирование, фильтрация и сортировка).</td>
       </tr>
     </tbody>
