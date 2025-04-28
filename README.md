@@ -104,7 +104,7 @@
         <th colspan="2">Курсовой проект по Java</th>
       </tr>
       <tr>
-        <td><a href="#" target="_blank">Курсовой проект Java</a></td>
+        <td><a href="https://github.com/pmirov/portfolio-blog" target="_blank">Курсовой проект Java</a></td>
         <td>Тема курсового проекта: Веб-сайт-портфолио с личным блогом</td>
       </tr>
     </tbody>
